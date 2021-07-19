@@ -24,7 +24,7 @@
     --color-border: #2b3038;
     --background-image: url("/images/theme/test1.jpg");
     --loading-image: url("/images/theme/loading_camera_dark.gif");
-    --lazyload-image: url("/images/theme/loading.gif");
+    --lazyload-image: url("/images/theme/loading_dark.gif");
   }
 }
 [color-mode='dark'] {
@@ -37,7 +37,7 @@
   --color-border: #2b3038;
   --background-image: url("/images/theme/test1.jpg");
   --loading-image: url("/images/theme/loading_camera_dark.gif");
-  --lazyload-image: url("/images/theme/loading.gif");
+  --lazyload-image: url("/images/theme/loading_dark.gif");
 }
 [color-mode='dark'] .tags a {
   color: var(--color-text) !important;
