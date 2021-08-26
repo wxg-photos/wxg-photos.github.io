@@ -1,1 +1,0 @@
-DIR /S/B >FILELIST.TXT
